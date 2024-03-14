@@ -1,0 +1,29 @@
+{
+  "name": "react-external-store",
+  "version": "0.0.1",
+  "description": "React External Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashotmuradian/react-external-store.git"
+  },
+  "keywords": [
+    "React",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "author": "Ashot Muradian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashotmuradian/react-external-store/issues"
+  },
+  "homepage": "https://github.com/ashotmuradian/react-external-store#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "react": "^18.2.0",
+    "typescript": "^5.4.2"
+  }
+}
