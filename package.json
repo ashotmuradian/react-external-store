@@ -22,6 +22,12 @@
   },
   "homepage": "https://github.com/ashotmuradian/react-external-store#readme",
   "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "immer": "^10.0.4",
     "prettier": "^3.2.5",
     "react": "^18.2.0",
     "typescript": "^5.4.2"
